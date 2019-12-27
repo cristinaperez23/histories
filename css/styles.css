@@ -1,0 +1,41 @@
+.centro{
+    text-align: center;
+    font-size: 100px;
+    color: antiquewhite;
+    background: azure;
+    font-family: fantasy;
+}
+.izquierda{
+    text-align: center;
+    font-size: 70px;
+    border: coral;
+    font-family: unset;
+
+}
+.derecha{
+    text-align: center;
+    font-size: 100px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+body{
+    background: azure ;
+}
+
+.negro{
+    color:black;
+}
+h1{
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.redondo{
+    border-radius: 50%;
+}
+
+#negrita{
+    color: black;
+}
